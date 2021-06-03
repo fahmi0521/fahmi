@@ -1,0 +1,344 @@
+646-813-5214(hhs exchange)
+101463(patiend id)
+
+000(duty id)
+
+user:postgres
+pw::postgres
+
+github username:fahmi0521
+pw:Google021@
+
+Sophia:
+https://join.slack.com/t/210517-enterprise/shared_invite/zt-qh9ve7yc-zxwDbY22jRlsyMQRNz6U9Q
+
+
+md.faruque@revature.net
+UserId : 750755449
+
+https://github.com/210517-Enterprise
+From Sophia Gavrila to Everyone:  12:11 PM
+https://www.freecodecamp.org/news/jvm-tutorial-java-virtual-machine-architecture-explained-for-beginners/
+
+For recording:
+https://app.revature.com/curriculum/5945/batch/953/viewCalendar
+
+or even just the dashboard
+https://app.revature.com/dashboard
+
+itsupport@revature.com send email to it support if you don't have zoho access
+
+for (int n : values) {
+values[n] = scan.nextInt();
+------------------------HW-5/18/21---------------------------------------------------------
+ * Create a program using arrays that sorts a list of integers in DESCENDING order.
+	 * Descending order is highest value to lowest.
+	 * 
+	 * In other words if the array had the values in it 106, 26, 81, 5, 15 your program should
+	 * ultimately have an array with 106,81,26, 15, 5 in it.
+	 * 
+	 * Set up the program so that the numbers to sort are read in from the keyboard.
+	 * 
+	 * Implement the following methods - getIntegers, printArray, and sortIntegers
+	 * 
+	 * + getIntegers returns an array of entered integers from keyboard
+	 * + printArray prints out the contents of the array
+	 * + sortIntegers should sort the array and return a new array containing the sorted numbers
+	 * 
+	 * you will have to figure out how to copy the array elements from the passed array into a new
+	 * array and sort them and return the new sorted array.
+	 * 
+	 * 
+	 * Program execution is as follows: 
+	 * 
+	 * 		+ When I run the program, I am prompted to enter a certain amount of integers.
+	 * 		+ Once I finish 
+------------------------------------------------------------------------------------------------------------
+Q----------------------------------------------------
+https://stackoverflow.com/questions/34488484/why-is-super-class-constructor-always-called
+________________________________________________________________________________
+
+https://www.geeksforgeeks.org/garbage-collection-java/#:~:text=Garbage%20collector%20is%20best%20example,memory%20by%20destroying%20unreachable%20objects.
+_______________________________________________________________________________
+
+https://education.oracle.com/java-se-8-programmer-i/pexam_1Z0-808
+___________________________________________________________________
+https://www.javatpoint.com/immutable-string
+____________________________________________________
+https://github.com/210517-Enterprise/demos/blob/main/how-to-do-well-in-qc.md
+________________________________________________________________________________
+<properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
+___________________________________________________________
+https://mvnrepository.com/artifact/junit/junit -->
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.13</version>
+    <scope>test</scope>
+</dependency>
+__________________________________________________
+https://maven.apache.org/shared/maven-archiver/examples/classpath.html
+__________________________________________________________________________
+int point=0;
+		
+		for(int count=0;count<string.length();count++)
+		{
+			//if(string.charAt(count)==)
+		}
+_____________________________________________________________________________
+C:\Users\fahmi\OneDrive\Documents\GitHub\java-problems-fahmi0521
+________________________________________________________________________
+
+Other response could be : Being  a quick learner, am confident that I can pick up the skill fast..
+________________________________________________________________________________
+For Slack::
+----------
+https://app.slack.com/client/T022DFDLY1F/C021L47JBK9
+_________________________________________________________________________
+
+https://discord.gg/vvRwcvPX
+______________________________________
+
+From Emily "EJ" Baillie to Everyone:  10:49 AM
+stagingmgmt@revature.com
+______________________________________
+
+/* Scanner in=new Scanner(System.in);
+	        n=in.nextInt();
+	        int a[][]=new int[n][n];
+	        for(int i=0;i<n;i++){
+	        	for(int j=0;j<n;j++){
+	        		a[i][j]=in.nextInt();
+	        	}
+	        }*/
+
+https://softwareengineering.stackexchange.com/questions/307616/how-to-deal-with-classes-having-the-same-name-different-packages
+_______________________________________________________________
+<properties>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
+___________________________________________________________________________
+
+int low = 0;
+	        int high = seats.size()-1;
+
+	        while (low <= high) {
+	            int mid = (low + high) >>> 1;
+	            Comparable<? super T> midVal = list.get(mid);
+	            int cmp = midVal.compareTo(key);
+
+	            if (cmp < 0)
+	                low = mid + 1;
+	            else if (cmp > 0)
+	                high = mid - 1;
+	            else
+	                return mid; // key found
+	        }
+	        return -(low + 1);  // key not found
+____________________________________________________________________-
+https://discord.com
+___________________________
+My github repository is ::C:\Users\fahmi\OneDrive\Documents\GitHub\java-problems-fahmi0521
+________________________________________________________________________________________________
+
+From Sophia Gavrila to Everyone:  10:15 AM
+https://github.com/sophiagavrila/environment-setup to install git go to the git part
+https://www.hackerrank.com/contests/210517-enterprise-hr0/challenges/diagonal-difference
+______________________________________________________________________________________________
+https://www.hackerrank.com/contests/210517-enterprise-hr0/challenges
+_________________________________________________________________________
+
+https://mail.zoho.com/zm/   (revature email)
+________________________________
+git config --global user.name "FIRST_NAME LAST_NAME"
+
+https://rev2.force.com/revature
+____________________________________________
+https://connect.revature.net/group/210517-reston-ncc-1701
+_____________________________________________________________
+
+C:\Users\fahmi\OneDrive\Documents\GitHub\project-0-fahmi0521
+
+
+instructor's amazon::
+
+reston-enterprise.c9chs4ontkbe.us-east-1.rds.amazonaws.com
+__________________________________________
+https://app.revature.com/curriculum/863/quiz/108772/Fundamentals%20Quiz/Assessment
+______________________________________________________________________________________
+
+
+From Sophia Gavrila to Everyone:  11:10 AM
+https://www.geeksforgeeks.org/static-import-java/
+From Sophia Gavrila to Everyone:  11:16 AM
+https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/garbage_collect.html#:~:text=Note%20that%20the%20JVM%20uses,space)%20and%20the%20old%20space.
+
+
+__________________________________________________________________
+https://www.geeksforgeeks.org/static-import-java/
+From Sophia Gavrila to Everyone:  11:16 AM
+https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/garbage_collect.html#:~:text=Note%20that%20the%20JVM%20uses,space)%20and%20the%20old%20space.
+__________________________________
+From Sophia Gavrila to Everyone:  11:23 AM
+https://docs.oracle.com/javase/tutorial/java/IandI/multipleinheritance.html
+__________________________________________________________________________
+For HackerNeck::
+
+https://www.hackerrank.com/contests/210517-enterprise-hr0/challenges/diagonal-difference/submissions/code/1333638755
+_________________________________________________________________________________________________________________________
+https://docs.google.com/forms/d/e/1FAIpQLSctgsH-__acrraIWMPDsV3XSFmTAujJNIxK9zKEhATsYsKHSw/viewform?embedded=true
+_____________________________________________________________________________________________________________________
+https://stackoverflow.com/questions/19058859/what-does-mean-in-java#:~:text=The%20%3E%3E%3E%20operator%20is%20the,operand%2C%20or%20just%202%20here.&text=The%20%3E%3E%20operator%20shifts%20a%201,shifts%20in%20a%200%20regardless
+______________________________________
+2pm 
+_____________________
+https://www.bigocheatsheet.com/
+______________________________________
+reston-enterprise.c9chs4ontkbe.us-east-1.rds.amazonaws.com
+______________________________________________________________
+From Sophia Gavrila to Everyone:  05:17 PM
+https://dbdiagram.io/home
+_________________________________
+
+reston-enterprise.c9chs4ontkbe.us-east-1.rds.amazonaws.com
+____________________________________________________
+reston-enterprise.c9chs4ontkbe.us-east-1.rds.amazonaws.com
+password is postgres
+___________________________
+From Sophia Gavrila to Everyone:  11:33 AM
+jdbc:postgresql://host:port/database
+_____________________________________
+From Sophia Gavrila to Everyone:  11:34 AM
+jdbc:postgresql://host:port/database
+reston-enterprise.c9chs4ontkbe.us-east-1.rds.amazonaws.com
+_______________________________________________________________
+
+jdbc:postgresql://host:port/database
+reston-enterprise.c9chs4ontkbe.us-east-1.rds.amazonaws.com
+?currentSchema=myschema
+jdbc:postgresql://reston-enterprise.c9chs4ontkbe.us-east-1.rds.amazonaws.com:5432/postgres?currentSchema=sophiaproject0
+_________________________________________________________
+https://github.com/210517-Enterprise/demos/tree/main/week2/chinook-challenge
+____________________________________________________________________________
+
+From Sophia Gavrila to Everyone:  11:00 AM
+SELECT a."TrackId" , a."Name" , a."Composer" , b."InvoiceLineId" , b."InvoiceId"
+FROM "Track" AS a LEFT JOIN "InvoiceLine" AS b
+ON a."TrackId" = b."TrackId";
+_______________________________________________
+
+SELECT a."TrackId" , a."Name" , a."Composer" , b."InvoiceLineId" , b."InvoiceId"
+FROM "Track" AS a LEFT JOIN "InvoiceLine" AS b
+ON a."TrackId" = b."TrackId";
+________________________________________
+
+jdbc:postgresql://reston-enterprise.c9chs4ontkbe.us-east-1.rds.amazonaws.com:5432/postgres?currentSchema=mdfproject0
+______________________________________________________________________________
+
+reston-enterprise.c9chs4ontkbe.us-east-1.rds.amazonaws.com
+_____________________________________________________
+_____________________________________________________________
+
+https://www.postgresqltutorial.com/postgresql-indexes/postgresql-create-index/
+____________________________________________________________________________
+
+https://rev2.force.com/revature
+_______________________________________________________________________--
+
+https://www.baeldung.com/java-dao-pattern#1-the-domain-class
+_______________________________
+https://app.revature.com/curriculum/863/quiz/108766/Persistence%20Quiz/Assessment
+_________________________________________________________________________________
+From Sophia Gavrila to Everyone:  11:15 AM
+https://www.baeldung.com/java-testing-system-out-println
+_______________________________________________________________
+From Sophia Gavrila to Everyone:  11:23 AM
+<properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
+___________________________________________________
+
+From Sophia Gavrila to Everyone:  11:49 AM
+Employee zayn = new Employee("Zayne Smith", 42);
+		Employee abby = new Employee("Abby McCormick", 31);
+		Employee xavier = new Employee("Xavier Hall", 15);
+		Employee marry = new Employee("Marry Shelly", 60);
+_____________________________________________________________________________
+
+https://www.hackerrank.com/210517-enterprise-hr1
+_____________________________________________________________________
+
+
+From Sophia Gavrila to Everyone:  12:44 PM
+https://www.hackerrank.com/210517-enterprise-hr1
+https://www.hackerrank.com/210517-enterprise-hr1
+https://stackoverflow.com/questions/54296436/unit-tests-assert-vs-mockito-verify/54296693
+_____________________________________________________________________________________________
+
+From Sophia Gavrila to Everyone:  02:07 PM
+Employee zayn = new Employee("Zayn Smith", 40);
+		Employee abby = new Employee("Abby McCormick", 30);
+		Employee xavier = new Employee("Xavier Hall" , 15);
+		Employee marry = new Employee("Marry Shelly", 60);
+		Employee snow = new Employee("Snow White", 35);
+		Employee spiderman = new Employee("Peter Parker", 16);
+		
+		List<Employee> employees = new ArrayList<Employee>();
+		employees.add(zayn);
+		employees.add(abby);
+		employees.add(xavier);
+		employees.add(marry);
+		employees.add(snow);
+		employees.add(spiderman);
+____________________________________________________________________________________
+
+From Sophia Gavrila to Everyone:  02:51 PM
+https://www.benchresources.net/java-8-primitive-predicate-functional-interface/
+____________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
